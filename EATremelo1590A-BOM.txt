@@ -1,0 +1,49 @@
+Partlist
+
+Exported from EATremelo1590A.brd at 5/9/14 7:55 PM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package       Library         Position (inch)       Orientation
+
++9V      +9V(T)         SQUARE        mb_supply       (0.425 1.15)          R0
+C1       0.047uF        072X025       mb_caps-box     (0.475 0.325)         R90
+C2       10uF           050_020_1     mb_caps-electro (0.645 0.285)         R270
+C3       0.22uF         072X035       mb_caps-box     (0.9 0.325)           R0
+C4       0.47uF         072X035       mb_caps-box     (1.115 1.1)           R180
+C5       22uF           050_020_1     mb_caps-electro (1.145 0.705)         R180
+C6       0.47uF         072X035       mb_caps-box     (0.175 0.26)          R180
+C7       1uF            072X035       mb_caps-box     (0.2 0.85)            R180
+C8       1uF            072X035       mb_caps-box     (0.2 0.7)             R180
+C9       1uF            072X035       mb_caps-box     (0.2 1)               R180
+D1       LED3MM         LED3MM        mb_diodes       (0.655 0.095)         R180
+G        GND(T)         SQUARE        mb_supply       (0.94 0.085)          R0
+GND      GND(T)         SQUARE        mb_supply       (0.425 1.245)         R0
+IN       IN(T)          SQUARE        mb_supply       (0.4 0.1)             R0
+LED      3mm            SQUARE        mb_supply       (0.5 0.1)             R0
+OUT      OUT(T)         SQUARE        mb_supply       (1.225 0.1)           R0
+POT2     B250K          POT_9MM_HOLES mb_9mm Pot      (0.65 1.225)          R180
+Q1       2N5457         TO92-         mb_trans        (0.665 0.765)         R270
+Q2       2N3904         TO92-         mb_trans        (1.09 0.53)           R180
+Q3       2N5457         TO92-         mb_trans        (1.085 0.905)         R180
+Q4       2N5088         TO92-         mb_trans        (0.2 0.445)           R180
+R1       1M             R0204/2       mb_resistors    (0.49 0.745)          R90
+R2       1M             R0204/2       mb_resistors    (0.89 0.18)           R180
+R3       1M             R0204/2       mb_resistors    (0.575 0.52)          R90
+R4       10k            R0204/2       mb_resistors    (0.765 0.565)         R180
+R5       560K           R0204/2       mb_resistors    (0.9 0.7)             R180
+R6       4k7            R0204/2       mb_resistors    (0.9 0.8)             R180
+R7       180            R0204/2       mb_resistors    (1.185 0.3)           R90
+R8       150k           R0204/2       mb_resistors    (0.815 0.46)          R0
+R9       1k2            R0204/2       mb_resistors    (1.095 0.275)         R270
+R10      120k           R0204/2       mb_resistors    (0.4 0.65)            R270
+R11      68k            R0204/2       mb_resistors    (0.87 1.025)          R90
+R12      15k            R0204/2       mb_resistors    (0.395 0.955)         R90
+R13      2M2            R0204/2       mb_resistors    (0.175 0.12)          R180
+R14      15k            R0204/2       mb_resistors    (0.2 0.575)           R180
+R15      1k             R0204/2       mb_resistors    (0.2 1.125)           R180
+R16      4k7            R0204/2       mb_resistors    (0.585 1.065)         R180
+SPEED    C100K          POT_9MM_HOLES mb_9mm Pot      (0.2 1.225)           R180
+VOLUME   A25K           POT_9MM_HOLES mb_9mm Pot      (1.1 1.225)           R180
