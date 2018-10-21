@@ -67,7 +67,7 @@
 <wire x1="33.02" y1="33.528" x2="0" y2="33.528" width="0" layer="20"/>
 <wire x1="0" y1="33.528" x2="0" y2="0" width="0" layer="20"/>
 <text x="0.635" y="0.127" size="0.8128" layer="25" font="vector">Xenocoder Shaky Toes</text>
-<text x="17.907" y="0.127" size="0.8128" layer="25" font="vector">10.2018 V1590A1.1</text>
+<text x="17.907" y="0.127" size="0.8128" layer="25" font="vector">04.2014 V1590A1.0</text>
 <text x="24.257" y="30.226" size="0.8128" layer="25" rot="R90">V3</text>
 <text x="12.7" y="30.48" size="0.8128" layer="25" rot="R90">D3</text>
 <text x="1.143" y="30.48" size="0.8128" layer="25" rot="R90">S3</text>
@@ -768,6 +768,7 @@ Please make sure your boards conform to these design rules.</description>
 <signal name="N$16">
 <contactref element="Q4" pad="2"/>
 <contactref element="R13" pad="1"/>
+<wire x1="6.985" y1="3.048" x2="6.477" y2="3.048" width="0.6096" layer="16"/>
 <contactref element="C8" pad="1"/>
 <wire x1="6.35" y1="11.811" x2="7.62" y2="13.081" width="0.6096" layer="1"/>
 <wire x1="7.62" y1="13.081" x2="7.62" y2="15.875" width="0.6096" layer="1"/>
